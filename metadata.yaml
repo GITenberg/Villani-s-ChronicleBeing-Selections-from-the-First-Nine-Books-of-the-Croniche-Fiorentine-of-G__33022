@@ -1,0 +1,40 @@
+_repo: Villani-s-ChronicleBeing-Selections-from-the-First-Nine-Books-of-the-Croniche-Fiorentine-of-G__33022
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Selfe, Rose E.
+    gutenberg_agent_id: '41453'
+    url: http://www.gutenberg.org/2009/agents/41453
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villani, Giovanni
+    deathdate: 1348
+    gutenberg_agent_id: '36212'
+    url: http://www.gutenberg.org/2009/agents/36212
+  editor:
+    agent_name: Wicksteed, Philip H. (Philip Henry)
+    alias: Wicksteed, Philip Henry
+    birthdate: 1844
+    deathdate: 1927
+    gutenberg_agent_id: '35972'
+    url: http://www.gutenberg.org/2009/agents/35972
+description: ''
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florence (Italy) -- History'
+- !lcc 'DG'
+title: 'Villani''s Chronicle
+
+  Being Selections from the First Nine Books of the Croniche Fiorentine of Giovanni
+  Villani'
+url: http://www.gutenberg.org/ebooks/33022
